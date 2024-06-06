@@ -1,0 +1,23 @@
+.DS_Store
+
+# Ignore img folder in the root
+/img/
+/fonts/
+
+404.php
+archive.php
+author.php
+category.php
+comments.php
+index.php
+loop.php
+normalize.css
+normalize.min.css
+page.php
+pagination.php
+screenshot.png
+search.php
+searchform.php
+sidebar.php
+single.php
+tag.php
